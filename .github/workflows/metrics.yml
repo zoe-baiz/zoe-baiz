@@ -1,25 +1,24 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule daily updates
+  # Schedule updates (every 24 hours at midnight)
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
     permissions:
       contents: write
     steps:
-      with:
+      - uses: lowlighter/metrics@latest
+        with:
         filename: metrics.classic.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, repositories
         plugin_lines: yes
-      with:
+        with:
         filename: metrics.plugin.leetcode.svg
         token: NOT_NEEDED
         base: ""
