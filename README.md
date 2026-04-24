@@ -49,7 +49,13 @@
 
 | Contributions in the last year |
 | ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+| ## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zoe-baiz/zoe-baiz/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zoe-baiz/zoe-baiz/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zoe-baiz/zoe-baiz/output/pacman-contribution-graph.svg">
+</picture>| 
 
 
 
