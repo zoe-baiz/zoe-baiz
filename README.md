@@ -1,11 +1,6 @@
-<div align="Center">
-
-<a href="https://github.com/zoe-baiz">
-</a>
-
-<div align="center">
-
-<img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+  <img src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" width="100" alt="about me">
+  <h1 style="margin: 0;">Hi, I'm Zoe Baiz!</h1>
 
 [![GitHub Followers](https://img.shields.io/github/followers/zoe-baiz?label=Follow&style=social)](https://github.com/zoe-baiz)
 [![GitHub Stars](https://img.shields.io/github/stars/zoe-baiz?style=social)](https://github.com/zoe-baiz)
