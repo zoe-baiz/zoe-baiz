@@ -6,15 +6,9 @@
 [![GitHub Stars](https://img.shields.io/github/stars/zoe-baiz?style=social)](https://github.com/zoe-baiz)
 
 </div>
-
-# Zoe Baiz 
-
-**About me:** algo algo algo
 <br>
-**Focus:** ALGO ALGO ALGO`current`)
-<br>
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-<br>
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="600"></p>
+<p align="left"><img src="/metrics.plugin.leetcode.svg" alt="Leetcode" width="600"></p>
 <br>
 <br>
 <div align="Center">
