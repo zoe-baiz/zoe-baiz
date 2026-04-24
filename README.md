@@ -55,17 +55,18 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zoe-baiz/zoe-baiz/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
+<br>
+<br>
 
 <div align="Center">
 
 | Top Languages |
 | ----------|
 | ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-baiz&theme=default&show_icons=true&hide_border=true&layout=compact) |
-| <img src="https://github-profile-trophy.vercel.app/?username=CtorW"> |
 
 </div>
+
+<br>
 
 <div align="Center">
 
