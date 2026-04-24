@@ -22,28 +22,51 @@
   
 </div>
 
-<div align="Center">
+<br>
 
-| Electronics | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=arduino,autocad,linux,raspberrypi,sketchup"/> | <img src="https://skillicons.dev/icons?i=vscode,java,maven,spring,mysql,postman,py"/> |
+<details>
+summary align="center">
+Skills:
+</summary>
+  <br/>
+<div>
 
+  ### Electronics
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c" />
+  </a>
+
+  ### Terminal
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash" />
+  </a>
+
+  ### Operating Systems
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,mint,windows"/>
+  </a>
+  
+  ### Frontend
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,angular" />
+  </a>
+
+  ### Backend
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,py" />
+  </a>
+
+  ### Databases 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+  </a>
+
+  ### Tools & Infrastructure
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,maven,postman,figma,idea,sketchup,autocad" />
+  </a>
 </div>
-
-<br>
-<br>
-<br>
-
-
-<div align="Center">
-<h1>Operating Systems</h1>
-
-<img src="https://skillicons.dev/icons?i=ubuntu,mint,windows"/>
-
-<br>
-<br>
-
-</div>
+</details>
 
 <br>
 <br>
