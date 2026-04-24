@@ -10,9 +10,16 @@
 <p align="left"><img src="/github-metrics.svg" alt="Metrics" width="550"></p>
 <p align="left"><img src="/metrics.plugin.leetcode.svg" alt="Leetcode" width="550"></p>
 <br>
-<br>
 <div align="Center">
-<h1>Skills</h1>
+  
+  # Contributions in the last year 
+  
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zoe-baiz/zoe-baiz/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zoe-baiz/zoe-baiz/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zoe-baiz/zoe-baiz/output/pacman-contribution-graph.svg">
+  </picture>
+  
 </div>
 
 <div align="Center">
@@ -33,36 +40,18 @@
 
 <img src="https://skillicons.dev/icons?i=ubuntu,mint,windows"/>
 
+<br>
+<br>
+
 </div>
 
 <br>
-<br>
-
-# Contributions in the last year 
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zoe-baiz/zoe-baiz/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zoe-baiz/zoe-baiz/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zoe-baiz/zoe-baiz/output/pacman-contribution-graph.svg">
-</picture>
-
-<br>
-<br>
-
-<div align="Center">
-
-| Top Languages |
-| ----------|
-| ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-baiz&theme=default&show_icons=true&hide_border=true&layout=compact) |
-
-</div>
-
 <br>
 
 <div align="Center">
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <details> <summary>💬Socials</summary> <img width="15px" src="https://skillicons.dev/icons?i=gmail">[Gmail](mailto:baiz.zoe.luana@gmail.com) <img width="15px" src="https://skillicons.dev/icons?i=discord">[Discord](https://example) <img width="15px" src="https://skillicons.dev/icons?i=instagram">[Instagram](https://example) |
+| <details> <summary>💬Socials</summary> <img width="15px" src="https://skillicons.dev/icons?i=gmail">[Gmail](mailto:baiz.zoe.luana@gmail.com) <img width="15px" src="https://skillicons.dev/icons?i=linkedin">[LinkedIn](https://example)|
 
 </div>
