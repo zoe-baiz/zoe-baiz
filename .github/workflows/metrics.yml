@@ -14,13 +14,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-        filename: metrics.classic.svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: header, repositories
-        plugin_lines: yes
-        with:
-        filename: metrics.plugin.leetcode.svg
-        token: NOT_NEEDED
-        base: ""
-        plugin_leetcode: yes
-        plugin_leetcode_sections: solved, skills, recent
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories, ""
+          plugin_lines: yes
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
