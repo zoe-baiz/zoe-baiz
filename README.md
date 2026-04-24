@@ -25,7 +25,7 @@
 <br>
 
 <details>
-summary align="center">
+<summary align="center">
 Skills:
 </summary>
   <br/>
