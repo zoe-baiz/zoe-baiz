@@ -1,4 +1,4 @@
-name: Example
+name: Metrics
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.classic.svg
