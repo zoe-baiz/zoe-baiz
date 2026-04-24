@@ -1,24 +1,3 @@
-## Hi there 👋
-
-<!--
-**zoe-baiz/zoe-baiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 <div align="Center">
 
 <a href="https://github.com/zoe-baiz">
@@ -33,7 +12,7 @@ Here are some ideas to get you started:
 
 </div>
 
-# Arch Installer
+# Zoe Baiz 
 
 **Project:** Arch Linux Fast Installer
 <br>
@@ -47,9 +26,9 @@ Here are some ideas to get you started:
 
 <div align="Center">
 
-| Website | Programming |
+| Electronics | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=arduino,autocad,linux,raspberrypi,sketchup"/> | <img src="https://skillicons.dev/icons?i=vscode,java,maven,spring,mysql,postman,py"/> |
 
 </div>
 
@@ -61,7 +40,7 @@ Here are some ideas to get you started:
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=arch,linux"/>
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,mint"/>
 
 </div>
 
@@ -83,7 +62,7 @@ Here are some ideas to get you started:
 
 | Most Lang |
 | ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=default&show_icons=true&hide_border=true&layout=compact) |
+| ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-baiz&theme=default&show_icons=true&hide_border=true&layout=compact) |
 | <img src="https://github-profile-trophy.vercel.app/?username=CtorW"> |
 
 </div>
@@ -92,12 +71,6 @@ Here are some ideas to get you started:
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <details> <summary>💬Socials</summary> <img width="15px" src="https://skillicons.dev/icons?i=gmail">[Gmail](mailto:lorenceisidoro@gmail.com) <img width="15px" src="https://skillicons.dev/icons?i=discord">[Discord](https://example) <img width="15px" src="https://skillicons.dev/icons?i=instagram">[Instagram](https://example) |
+| <details> <summary>💬Socials</summary> <img width="15px" src="https://skillicons.dev/icons?i=gmail">[Gmail](mailto:baiz.zoe.luana@gmail.com) <img width="15px" src="https://skillicons.dev/icons?i=discord">[Discord](https://example) <img width="15px" src="https://skillicons.dev/icons?i=instagram">[Instagram](https://example) |
 
 </div>
-
-# Last Update 
-```bash
-Last Update: July 22, 2025 | Tuesday | UTC+08:00
-```
--->
