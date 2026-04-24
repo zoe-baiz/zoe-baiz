@@ -14,9 +14,9 @@
 
 # Zoe Baiz 
 
-**Project:** Arch Linux Fast Installer
+**About me:** algo algo algo
 <br>
-**Focus:** Hyprland, Dotfiles (HyDE, HyprLuna, End-4, Caelestia`current`)
+**Focus:** ALGO ALGO ALGO`current`)
 <br>
 <br>
 <br>
@@ -40,14 +40,14 @@
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,mint"/>
+<img src="https://skillicons.dev/icons?i=ubuntu,mint,windows"/>
 
 </div>
 
 <br>
 <br>
 
-| Snake Eating Contributions in the last year |
+| Contributions in the last year |
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
@@ -56,11 +56,7 @@
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=CtorW">  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=default&hide_border=true)
-
-| Most Lang |
+| Top Languages |
 | ----------|
 | ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-baiz&theme=default&show_icons=true&hide_border=true&layout=compact) |
 | <img src="https://github-profile-trophy.vercel.app/?username=CtorW"> |
