@@ -8,7 +8,7 @@
 </div>
 <br>
 <p align="left"><img src="/github-metrics.svg" alt="Metrics" width="550"></p>
-<p align="left"><img src="/metrics.plugin.leetcode.svg" alt="Leetcode" width="550"></p>
+<!-- <p align="left"><img src="/metrics.plugin.leetcode.svg" alt="Leetcode" width="550"></p> -->
 <br>
 <div align="Center">
   
